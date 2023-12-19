@@ -1,7 +1,9 @@
 # Sentiment-Analysis-of-the-israel-palestine-Conflict
 
 Author : Prasanth Sagar Kottakota
+
 Date : 12/15/2023
+
 Project Title : Sentiment Analysis on Israel-Palestine Conflict using Reddit Data
 
 The source code files are jupyter notebook files, most of the installations will be carried out during execution. I used kaggle to run and code the project.
